@@ -5,4 +5,5 @@ My longest build. It got me 2/3 hours to build this.
 1. Open index.html
 2. Rename all the things as you like.
 3. Also rename the commands and prefix with your own bot prefix.
+4. Change Bot/Server logos as you like!
 # Thank You!
