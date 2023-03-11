@@ -7,8 +7,7 @@ Check the example: https://botdash.netlify.app/
 2. Rename all the things as you like.
 3. Also rename the commands and prefix with your own bot prefix.
 4. Change Bot/Server logos as you like!
-5.  Also change buttons with your own links
-6. Edit the SRC Code's href button with my own github. 
+5.  Also change button links with your own links
 # Quick Links
 Replit: https://replit.com/@Akashnil
 
