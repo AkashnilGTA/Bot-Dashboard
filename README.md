@@ -1,7 +1,7 @@
 # Bot-Dashboard
 My longest build. It got me 2/3 hours to build this.
 # You can use this on any hosting platform.
-Check the example: 
+Check the example: https://botdash.netlify.app/
 # TO-DO LIST
 1. Open index.html
 2. Rename all the things as you like.
